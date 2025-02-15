@@ -1,0 +1,8 @@
+[package]
+name = "jq"
+authors = ["Adam Fortune"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+jq_query_engine = { path = "../query_engine" }

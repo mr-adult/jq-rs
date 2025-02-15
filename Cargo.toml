@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "jq",
+    "query_engine",
+    "test_bench",
+]
